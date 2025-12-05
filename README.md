@@ -1,4 +1,4 @@
-<p align='center'>
+<p align='center' pos>
   <img src='https://github-readme-stats-gamma-swart-51.vercel.app/api?username=zhangtony239&theme=default&show_icons=true&hide_border=true&count_private=true' />
-  <img src="https://skillicons.dev/icons?i=python,anaconda,vscode,windows,git,html,css,docker,kubernetes,nginx,ps,md,linux,bash,tailwind,workers&theme=light&perline=4" />
+  <img src="https://skillicons.dev/icons?i=python,anaconda,vscode,windows,linux,js,html,css,docker,kubernetes,ps,md,bash,tailwind,workers&theme=light&perline=5" />
 </p>
